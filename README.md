@@ -11,6 +11,7 @@ This repository is for the tracking and keeping logs of the activities by the ca
 - The format of the log is as follows.
     - Add date (DD Month, YYYY)
     - Add your activity for the particular day as a list item.
+- Submit a pull request.    
 
 Example log is as follows.
 
