@@ -4,7 +4,7 @@
 - We organized a session series about industry awareness.
     - Event Links
          - [Facebook Link](https://www.facebook.com/photo?fbid=457009069934179&set=a.385764923725261)
-         - 
+         - [Recording Link](https://fb.watch/hTs2ydZi7j/)
     - This is the first session of the series. 
     - In day 01 the topic was *Code Simplicity*
     - Session was conducted not only theory parts but also actual industry coding examples
