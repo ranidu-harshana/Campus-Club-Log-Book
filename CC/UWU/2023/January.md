@@ -10,3 +10,5 @@
         01. Namal Aththanayake - CEO of Parallax Technologies.
         02. Prabath Wijewardhana - Software Engineering, Parallax Technologies.
     - Participants asked many questions about the session at Q and A.
+    - Flyer
+     <img src="https://user-images.githubusercontent.com/68012743/212046671-637d0333-4a42-4dcd-954a-fe10489d2aac.png" width="30%"/>
