@@ -16,3 +16,5 @@
     - Guest Speakers for the day 01 session are:
         01. Namal Aththanayake - CEO of Parallax Technologies.
         02. Prabath Wijewardhana - Software Engineering, Parallax Technologies.
+    - Flyer
+     <img src="https://user-images.githubusercontent.com/68012743/212047489-346f4443-7ee6-4932-83ee-de44c084179b.jpeg" width="20%"/>
